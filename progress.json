@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T02:09:46.395Z",
+  "generated_at": "2026-09-18T02:38:18.326Z",
   "items": {
     "math:24": {
       "kind": "math",
@@ -22,6 +22,19 @@
       "path": "math/0025-kl-divergence",
       "first_solved_at": "2026-09-18T02:09:40.254Z",
       "last_pushed_at": "2026-09-18T02:09:40.254Z"
+    },
+    "problem:54": {
+      "kind": "problem",
+      "id": "54",
+      "title": "Implementing a Simple RNN",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/54",
+      "path": "problems/0054-implementing-a-simple-rnn",
+      "first_solved_at": "2026-09-18T02:38:16.322Z",
+      "last_pushed_at": "2026-09-18T02:38:16.322Z",
+      "language": "python",
+      "lines": 11
     }
   }
 }
