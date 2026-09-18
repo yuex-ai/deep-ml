@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**3** solved · 1 problems · 0 labs · 2 math
+**4** solved · 2 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2026-09-18 | [solution](problems/0054-implementing-a-simple-rnn) |
+| [Implement a Simple RNN with Backpropagation Through Time (BPTT)](https://www.deep-ml.com/problems/62) | hard | 2026-09-18 | [solution](problems/0062-implement-a-simple-rnn-with-backpropagation-through-time-bptt) |
 
 ## Math
 
