@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T08:29:16.960Z",
+  "generated_at": "2026-09-19T12:13:36.076Z",
   "items": {
     "math:24": {
       "kind": "math",
@@ -74,6 +74,17 @@
       "last_pushed_at": "2026-09-19T08:29:10.725Z",
       "language": "python",
       "lines": 34
+    },
+    "math:26": {
+      "kind": "math",
+      "id": "26",
+      "title": "Maximum Likelihood and MAP",
+      "difficulty": "hard",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/26",
+      "path": "math/0026-maximum-likelihood-and-map",
+      "first_solved_at": "2026-09-19T12:13:29.958Z",
+      "last_pushed_at": "2026-09-19T12:13:29.958Z"
     }
   }
 }
