@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**4** solved · 2 problems · 0 labs · 2 math
+**5** solved · 3 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Implement Long Short-Term Memory (LSTM) Network](https://www.deep-ml.com/problems/59) | medium | 2026-09-19 | [solution](problems/0059-implement-long-short-term-memory-lstm-network) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2026-09-18 | [solution](problems/0054-implementing-a-simple-rnn) |
 | [Implement a Simple RNN with Backpropagation Through Time (BPTT)](https://www.deep-ml.com/problems/62) | hard | 2026-09-18 | [solution](problems/0062-implement-a-simple-rnn-with-backpropagation-through-time-bptt) |
 
