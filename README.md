@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**14** solved · 9 problems · 0 labs · 5 math
+**15** solved · 10 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Sinusoidal Positional Encoding](https://www.deep-ml.com/problems/906) | easy | 2026-09-24 | [solution](problems/0906-sinusoidal-positional-encoding) |
+| [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-09-25 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Implement an LSTM Cell from Scratch](https://www.deep-ml.com/problems/907) | medium | 2026-09-19 | [solution](problems/0907-implement-an-lstm-cell-from-scratch) |
 | [Implement Long Short-Term Memory (LSTM) Network](https://www.deep-ml.com/problems/59) | medium | 2026-09-19 | [solution](problems/0059-implement-long-short-term-memory-lstm-network) |
 | [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2026-09-23 | [solution](problems/0107-implement-masked-self-attention) |
