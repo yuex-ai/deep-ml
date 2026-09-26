@@ -13,7 +13,7 @@ def transform_matrix(A, T, S) -> torch.Tensor:
     det_T=torch.linalg.det(T_t)
     det_S=torch.linalg.det(S_t)
     if det_T.item()==0 or det_S.item()==0:
-        return torch.tensor(-1)
+        return torch.tensor(-1.)
     T_t_inv=torch.linalg.inv(T_t)
     output=T_t_inv@(A_t@S_t)
     return output
