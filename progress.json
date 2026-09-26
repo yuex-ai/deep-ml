@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T01:25:41.033Z",
+  "generated_at": "2026-09-26T01:54:45.368Z",
   "items": {
     "math:24": {
       "kind": "math",
@@ -211,6 +211,19 @@
       "last_pushed_at": "2026-09-26T01:25:39.967Z",
       "language": "python",
       "lines": 34
+    },
+    "problem:1072": {
+      "kind": "problem",
+      "id": "1072",
+      "title": "Pairwise Cosine Similarity Matrix",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1072",
+      "path": "problems/1072-pairwise-cosine-similarity-matrix",
+      "first_solved_at": "2026-09-26T01:54:44.290Z",
+      "last_pushed_at": "2026-09-26T01:54:44.290Z",
+      "language": "python",
+      "lines": 31
     }
   }
 }
