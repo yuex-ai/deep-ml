@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T06:58:48.110Z",
+  "generated_at": "2026-09-27T12:10:14.988Z",
   "items": {
     "math:24": {
       "kind": "math",
@@ -335,6 +335,19 @@
       "path": "math/0046-the-four-fundamental-subspaces",
       "first_solved_at": "2026-09-27T06:58:46.296Z",
       "last_pushed_at": "2026-09-27T06:58:46.296Z"
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2026-09-27T12:10:08.967Z",
+      "last_pushed_at": "2026-09-27T12:10:08.967Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }
