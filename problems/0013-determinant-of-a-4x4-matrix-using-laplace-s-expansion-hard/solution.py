@@ -1,19 +1,13 @@
-def determinant_4x4(matrix: list[list[int|float]]) -> float:
-	# Your recursive implementation here
-	n=len(matrix)
-	
-	if n==1:
-		return matrix[0][0]
-	if n==2:
-		return matrix[0][0]*matrix[1][1]-matrix[0][1]*matrix[1][0]
-	det=0
-	for col in range(n):
-		minor=[
-		row[:col]+row[col+1:] for row in matrix[1:]
-		]
-		sign=1 if col%2==0 else -1
-		det+=sign*matrix[0][col]*determinant_4x4(minor)
-	return det
+import torch
 
-
-
+def determinant_4x4(matrix) -> float:
+    """
+    Compute the determinant of a 4×4 matrix using PyTorch.
+    Input can be a Python list, NumPy array, or torch Tensor of shape (4,4).
+    Returns a Python float.
+    """
+    # Convert to tensor
+    m = torch.as_tensor(matrix, dtype=torch.float)
+    # Your implementation here
+    result=torch.linalg.det(m)
+    return result.item()
