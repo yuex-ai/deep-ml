@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**31** solved · 23 problems · 0 labs · 8 math
+**32** solved · 24 problems · 0 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -31,6 +31,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2026-09-18 | [solution](problems/0054-implementing-a-simple-rnn) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-09-26 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-09-26 | [solution](problems/0007-matrix-transformation) |
+| [Stochastic Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/802) | medium | 2026-10-04 | [solution](problems/0802-stochastic-gradient-descent-step-for-linear-regression) |
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2026-09-29 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
 | [Implement a Simple RNN with Backpropagation Through Time (BPTT)](https://www.deep-ml.com/problems/62) | hard | 2026-09-18 | [solution](problems/0062-implement-a-simple-rnn-with-backpropagation-through-time-bptt) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-09-24 | [solution](problems/0094-implement-multi-head-attention) |
