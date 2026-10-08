@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T01:39:23.028Z",
+  "generated_at": "2026-10-08T01:46:34.637Z",
   "items": {
     "math:24": {
       "kind": "math",
@@ -423,9 +423,9 @@
       "url": "https://www.deep-ml.com/problems/69",
       "path": "problems/0069-calculate-r-squared-for-regression-analysis",
       "first_solved_at": "2026-10-08T01:39:21.547Z",
-      "last_pushed_at": "2026-10-08T01:39:21.547Z",
+      "last_pushed_at": "2026-10-08T01:46:33.578Z",
       "language": "python",
-      "lines": 20
+      "lines": 27
     }
   }
 }
