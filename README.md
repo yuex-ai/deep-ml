@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**40** solved · 31 problems · 0 labs · 9 math
+**41** solved · 32 problems · 0 labs · 9 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,6 +19,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate R-squared for Regression Analysis](https://www.deep-ml.com/problems/69) | easy | 2026-10-08 | [solution](problems/0069-calculate-r-squared-for-regression-analysis) |
 | [Calculate Root Mean Square Error (RMSE)](https://www.deep-ml.com/problems/71) | easy | 2026-10-08 | [solution](problems/0071-calculate-root-mean-square-error-rmse) |
 | [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2026-10-10 | [solution](problems/0046-implement-precision-metric) |
+| [Implement Recall Metric in Binary Classification](https://www.deep-ml.com/problems/52) | easy | 2026-10-10 | [solution](problems/0052-implement-recall-metric-in-binary-classification) |
 | [L2 Normalization Along an Axis](https://www.deep-ml.com/problems/1022) | easy | 2026-09-26 | [solution](problems/1022-l2-normalization-along-an-axis) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-09-27 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix Determinant & Trace](https://www.deep-ml.com/problems/195) | easy | 2026-09-28 | [solution](problems/0195-matrix-determinant-trace) |
