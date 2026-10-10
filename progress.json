@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T07:06:26.343Z",
+  "generated_at": "2026-10-10T07:08:18.583Z",
   "items": {
     "math:24": {
       "kind": "math",
@@ -486,9 +486,9 @@
       "url": "https://www.deep-ml.com/problems/36",
       "path": "problems/0036-calculate-accuracy-score",
       "first_solved_at": "2026-10-10T07:06:20.812Z",
-      "last_pushed_at": "2026-10-10T07:06:20.812Z",
+      "last_pushed_at": "2026-10-10T07:08:15.942Z",
       "language": "python",
-      "lines": 18
+      "lines": 11
     }
   }
 }
