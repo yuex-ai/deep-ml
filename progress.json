@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T13:02:50.523Z",
+  "generated_at": "2026-10-10T06:57:27.970Z",
   "items": {
     "math:24": {
       "kind": "math",
@@ -463,6 +463,19 @@
       "path": "math/0040-logistic-regression-as-maximum-likelihood",
       "first_solved_at": "2026-10-09T13:02:37.113Z",
       "last_pushed_at": "2026-10-09T13:02:37.113Z"
+    },
+    "problem:106": {
+      "kind": "problem",
+      "id": "106",
+      "title": "Train Logistic Regression with Gradient Descent",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/106",
+      "path": "problems/0106-train-logistic-regression-with-gradient-descent",
+      "first_solved_at": "2026-10-10T06:57:26.674Z",
+      "last_pushed_at": "2026-10-10T06:57:26.674Z",
+      "language": "python",
+      "lines": 42
     }
   }
 }
