@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T07:21:14.289Z",
+  "generated_at": "2026-10-19T08:10:12.250Z",
   "items": {
     "math:24": {
       "kind": "math",
@@ -663,6 +663,17 @@
       "path": "math/0039-bias-variance-decomposition",
       "first_solved_at": "2026-10-19T07:21:12.389Z",
       "last_pushed_at": "2026-10-19T07:21:12.389Z"
+    },
+    "math:17": {
+      "kind": "math",
+      "id": "17",
+      "title": "Covariance and Correlation",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/17",
+      "path": "math/0017-covariance-and-correlation",
+      "first_solved_at": "2026-10-19T08:10:11.314Z",
+      "last_pushed_at": "2026-10-19T08:10:11.314Z"
     }
   }
 }
