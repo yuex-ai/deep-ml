@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**52** solved · 36 problems · 4 labs · 12 math
+**53** solved · 36 problems · 4 labs · 13 math
 
 ![Coverage](./coverage.svg)
 
@@ -65,6 +65,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Expectation and Variance Algebra](https://www.deep-ml.com/math-problems/33) | easy | 2026-10-17 | [solution](math/0033-expectation-and-variance-algebra) |
 | [Matrix Basics](https://www.deep-ml.com/math-problems/9) | easy | 2026-09-25 | [solution](math/0009-matrix-basics) |
 | [ML Workflow Basics](https://www.deep-ml.com/math-problems/30) | easy | 2026-10-17 | [solution](math/0030-ml-workflow-basics) |
+| [Bias–Variance Decomposition](https://www.deep-ml.com/math-problems/39) | medium | 2026-10-19 | [solution](math/0039-bias-variance-decomposition) |
 | [Determinants and Trace](https://www.deep-ml.com/math-problems/11) | medium | 2026-09-27 | [solution](math/0011-determinants-and-trace) |
 | [Information Theory: Entropy](https://www.deep-ml.com/math-problems/24) | medium | 2026-09-16 | [solution](math/0024-information-theory-entropy) |
 | [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-09-27 | [solution](math/0012-inverse-and-rank) |
