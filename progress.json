@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T02:10:29.691Z",
+  "generated_at": "2026-10-22T02:18:56.135Z",
   "items": {
     "math:24": {
       "kind": "math",
@@ -814,9 +814,9 @@
       "url": "https://www.deep-ml.com/problems/173",
       "path": "problems/0173-implement-k-nearest-neighbors",
       "first_solved_at": "2026-10-22T02:10:26.147Z",
-      "last_pushed_at": "2026-10-22T02:10:26.147Z",
+      "last_pushed_at": "2026-10-22T02:18:54.763Z",
       "language": "python",
-      "lines": 19
+      "lines": 20
     }
   }
 }
