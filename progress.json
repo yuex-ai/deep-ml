@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T07:02:05.391Z",
+  "generated_at": "2026-11-05T12:25:35.540Z",
   "items": {
     "math:24": {
       "kind": "math",
@@ -854,6 +854,19 @@
       "path": "math/0016-eigendecomposition-and-svd",
       "first_solved_at": "2026-11-05T07:02:04.456Z",
       "last_pushed_at": "2026-11-05T07:02:04.456Z"
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2026-11-05T12:25:34.343Z",
+      "last_pushed_at": "2026-11-05T12:25:34.343Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
