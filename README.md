@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**71** solved · 52 problems · 4 labs · 15 math
+**72** solved · 53 problems · 4 labs · 15 math
 
 ![Coverage](./coverage.svg)
 
@@ -32,6 +32,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Determinant & Trace](https://www.deep-ml.com/problems/195) | easy | 2026-09-28 | [solution](problems/0195-matrix-determinant-trace) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-09-26 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Pairwise Cosine Similarity Matrix](https://www.deep-ml.com/problems/1072) | easy | 2026-09-26 | [solution](problems/1072-pairwise-cosine-similarity-matrix) |
+| [Replace Token Pair in BPE Sequences](https://www.deep-ml.com/problems/949) | easy | 2026-11-18 | [solution](problems/0949-replace-token-pair-in-bpe-sequences) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-09-26 | [solution](problems/0003-reshape-matrix) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-09-26 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Sinusoidal Positional Encoding](https://www.deep-ml.com/problems/906) | easy | 2026-09-24 | [solution](problems/0906-sinusoidal-positional-encoding) |
