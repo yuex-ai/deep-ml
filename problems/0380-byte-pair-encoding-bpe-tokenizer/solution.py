@@ -23,6 +23,8 @@ def byte_pair_encoding(corpus: dict, num_merges: int) -> list:
             for i in range(len(tokens)-1):
                 pair=(tokens[i],tokens[i+1])
                 p[pair]=p.get(pair,0)+freq
+        if not p:
+            break
         best_pair=None
         best_freq=-1
         for tokens,freq in p.items():
