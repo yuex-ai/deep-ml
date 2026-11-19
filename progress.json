@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T10:28:14.013Z",
+  "generated_at": "2026-11-19T12:12:37.887Z",
   "items": {
     "math:24": {
       "kind": "math",
@@ -932,6 +932,19 @@
       "last_pushed_at": "2026-11-18T10:28:11.229Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:380": {
+      "kind": "problem",
+      "id": "380",
+      "title": "Byte Pair Encoding (BPE) Tokenizer",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/380",
+      "path": "problems/0380-byte-pair-encoding-bpe-tokenizer",
+      "first_solved_at": "2026-11-19T12:12:36.732Z",
+      "last_pushed_at": "2026-11-19T12:12:36.732Z",
+      "language": "python",
+      "lines": 61
     }
   }
 }
